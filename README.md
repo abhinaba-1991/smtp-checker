@@ -160,6 +160,9 @@ The API applies a rate limit of **100 requests per 15 minutes** per IP address o
 ## Tech Stack
 
 | Layer | Technology |
+
+![Alt Text](email_validate.png)
+![Alt Text](mx_record.png)
 |-------|-----------|
 | Frontend | React 18, CSS3 (no UI library) |
 | Backend | Node.js, Express 4 |
