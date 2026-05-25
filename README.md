@@ -164,11 +164,10 @@ The API applies a rate limit of **100 requests per 15 minutes** per IP address o
 |-------|-----------|
 | Frontend | React 18, CSS3 (no UI library) |
 | Backend | Node.js, Express 4 |
-
-Images:-
-
-![Alt Text](email_validate.png)
-![Alt Text](mx_record.png)
 | DNS | Node.js built-in `dns.promises` |
 | SMTP | Raw TCP via Node.js `net` module |
 | Fonts | JetBrains Mono, Syne (Google Fonts) |
+
+Images:- 
+![Alt Text](email_validate.png)
+![Alt Text](mx_record.png)
